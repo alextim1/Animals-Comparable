@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\AnimalsComparble\AnimalsComparble\bin\Debug\AnimalsComparble.exe.config
+C:\Users\ivy\Documents\GitHub\AnimalsComparble\AnimalsComparble\bin\Debug\AnimalsComparble.exe
+C:\Users\ivy\Documents\GitHub\AnimalsComparble\AnimalsComparble\bin\Debug\AnimalsComparble.pdb
+C:\Users\ivy\Documents\GitHub\AnimalsComparble\AnimalsComparble\obj\Debug\AnimalsComparble.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\AnimalsComparble\AnimalsComparble\obj\Debug\AnimalsComparble.exe
+C:\Users\ivy\Documents\GitHub\AnimalsComparble\AnimalsComparble\obj\Debug\AnimalsComparble.pdb
